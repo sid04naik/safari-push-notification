@@ -1,0 +1,8 @@
+{
+  "websiteName": "Your Website Name",
+  "websitePushID": "web.com.domain.appname",
+  "allowedDomains": ["https://yourdomain.com"],
+  "urlFormatString": "http://yourdomain.com/notification/%@/%@",
+  "authenticationToken": "a_random_string_atleast_16_characters",
+  "webServiceURL": "https://yourdomain.com/push"
+}
