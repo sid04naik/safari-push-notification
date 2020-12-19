@@ -6,7 +6,7 @@ require_once('config.php');
 
 // Use this script as an example to generate a push package dynamically.
 
-$package_version = 2; // Change this to the desired push package version.
+$package_version = $_GET['version']; // Change this to the desired push package version.
 $certificate_path = CERTIFICATES_FOLDER.DS.APPLE_PUSH_NOTIFICATION_CERTIFICATE_P12_FILENAME; // Change this to the path where your certificate is located
 $certificate_password = APPLE_PUSH_NOTIFICATION_CERTIFICATE_PASS; // Change this to the certificate's import password
 
