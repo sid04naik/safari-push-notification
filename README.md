@@ -1,4 +1,4 @@
-# Safari Push Notifications (SPN): The Complete Setup Guide
+# Safari Push Notifications (SPN): The Complete Setup Guide [![CodeFactor](https://www.codefactor.io/repository/github/sid04naik/safari-push-notification/badge)](https://www.codefactor.io/repository/github/sid04naik/safari-push-notification)
 The Complete Setup Guide for configuring the Safari Push Notification.
 
 Safari Push Notifications is an `Apple developer service` that delivers notifications on the Safari web browser.
